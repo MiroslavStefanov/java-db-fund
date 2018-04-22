@@ -1,0 +1,736 @@
+[
+  {
+    "id": 29,
+    "name": "Louann Holzworth",
+    "birthDate": "1960-10-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "id": 19,
+        "car": {
+          "id": 294,
+          "make": "Citroen",
+          "model": "C4",
+          "travelledDistance": 2147487
+        },
+        "discount": 20.0
+      },
+      {
+        "id": 43,
+        "car": {
+          "id": 567,
+          "make": "Chevy",
+          "model": "Caprice",
+          "travelledDistance": 2147483647
+        },
+        "discount": 40.0
+      },
+      {
+        "id": 3,
+        "car": {
+          "id": 194,
+          "make": "Chevy",
+          "model": "Camaro",
+          "travelledDistance": 92233854775807
+        },
+        "discount": 10.0
+      },
+      {
+        "id": 33,
+        "car": {
+          "id": 638,
+          "make": "Peugeot",
+          "model": "405",
+          "travelledDistance": 92036854775807
+        },
+        "discount": 0.0
+      },
+      {
+        "id": 27,
+        "car": {
+          "id": 222,
+          "make": "Rolls-Royce",
+          "model": "Wraith",
+          "travelledDistance": 21647
+        },
+        "discount": 15.0
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Donnetta Soliz",
+    "birthDate": "1963-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 34,
+        "car": {
+          "id": 383,
+          "make": "BMW",
+          "model": "M Roadster E85",
+          "travelledDistance": 92233720365807
+        },
+        "discount": 50.0
+      },
+      {
+        "id": 7,
+        "car": {
+          "id": 320,
+          "make": "Seat",
+          "model": "Toledo",
+          "travelledDistance": 2147647
+        },
+        "discount": 30.0
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Rema Revelle",
+    "birthDate": "1970-05-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 6,
+        "car": {
+          "id": 114,
+          "make": "Toyota",
+          "model": "Prius",
+          "travelledDistance": 21477
+        },
+        "discount": 5.0
+      },
+      {
+        "id": 25,
+        "car": {
+          "id": 532,
+          "make": "Great Wall",
+          "model": "Steed 3",
+          "travelledDistance": 922336854775807
+        },
+        "discount": 15.0
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Carri Knapik",
+    "birthDate": "1972-02-02T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 42,
+        "car": {
+          "id": 577,
+          "make": "Rolls-Royce",
+          "model": "Ghost",
+          "travelledDistance": 214747
+        },
+        "discount": 30.0
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Garret Capron",
+    "birthDate": "1975-07-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 8,
+    "name": "Teddy Hobby",
+    "birthDate": "1975-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 30,
+        "car": {
+          "id": 611,
+          "make": "Alfa Romeo",
+          "model": "Alfetta",
+          "travelledDistance": 92233720775807
+        },
+        "discount": 20.0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Audrea Cardinal",
+    "birthDate": "1976-10-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "id": 4,
+        "car": {
+          "id": 657,
+          "make": "Citroen",
+          "model": "C4",
+          "travelledDistance": 92236854775807
+        },
+        "discount": 20.0
+      },
+      {
+        "id": 9,
+        "car": {
+          "id": 514,
+          "make": "Nissan",
+          "model": "Versa",
+          "travelledDistance": 9223775807
+        },
+        "discount": 0.0
+      },
+      {
+        "id": 49,
+        "car": {
+          "id": 579,
+          "make": "Rolls-Royce",
+          "model": "Phantom Drophead Coupé",
+          "travelledDistance": 922336854775807
+        },
+        "discount": 15.0
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Francis Mckim",
+    "birthDate": "1977-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 18,
+        "car": {
+          "id": 411,
+          "make": "Fiat",
+          "model": "500L",
+          "travelledDistance": 92233754775807
+        },
+        "discount": 20.0
+      },
+      {
+        "id": 29,
+        "car": {
+          "id": 374,
+          "make": "Opel",
+          "model": "Insignia",
+          "travelledDistance": 9223372036854775807
+        },
+        "discount": 5.0
+      },
+      {
+        "id": 1,
+        "car": {
+          "id": 129,
+          "make": "Toyota",
+          "model": "Tacoma",
+          "travelledDistance": 247
+        },
+        "discount": 20.0
+      },
+      {
+        "id": 10,
+        "car": {
+          "id": 3,
+          "make": "Opel",
+          "model": "Astra",
+          "travelledDistance": 922337203685807
+        },
+        "discount": 40.0
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Brett Brickley",
+    "birthDate": "1980-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 17,
+        "car": {
+          "id": 559,
+          "make": "Chevy",
+          "model": "Malibu",
+          "travelledDistance": 922337775807
+        },
+        "discount": 30.0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Kristian Engberg",
+    "birthDate": "1981-10-03T12:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "id": 39,
+        "car": {
+          "id": 406,
+          "make": "Fiat",
+          "model": "Panda",
+          "travelledDistance": 21474837
+        },
+        "discount": 15.0
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Hipolito Lamoreaux",
+    "birthDate": "1982-08-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 45,
+        "car": {
+          "id": 537,
+          "make": "Renault",
+          "model": "Clio IV",
+          "travelledDistance": 2147483647
+        },
+        "discount": 15.0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Zada Attwood",
+    "birthDate": "1982-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 46,
+        "car": {
+          "id": 498,
+          "make": "Nissan",
+          "model": "GT-R",
+          "travelledDistance": 21473647
+        },
+        "discount": 20.0
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Sylvie Mcelravy",
+    "birthDate": "1983-10-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "id": 12,
+        "car": {
+          "id": 331,
+          "make": "Skoda",
+          "model": "Rapid Spaceback",
+          "travelledDistance": 685477580
+        },
+        "discount": 0.0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Rico Peer",
+    "birthDate": "1984-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 36,
+        "car": {
+          "id": 136,
+          "make": "Toyota",
+          "model": "Camry Hybrid",
+          "travelledDistance": 214647
+        },
+        "discount": 30.0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hai Everton",
+    "birthDate": "1985-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 21,
+        "car": {
+          "id": 77,
+          "make": "Mercedes",
+          "model": "W211",
+          "travelledDistance": 92775807
+        },
+        "discount": 5.0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Lino Subia",
+    "birthDate": "1985-12-21T12:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "id": 22,
+        "car": {
+          "id": 440,
+          "make": "Ford",
+          "model": "Fiesta",
+          "travelledDistance": 922807
+        },
+        "discount": 0.0
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Jimmy Grossi",
+    "birthDate": "1986-07-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 12,
+    "name": "Carole Witman",
+    "birthDate": "1987-10-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "id": 47,
+        "car": {
+          "id": 247,
+          "make": "Ferrari",
+          "model": "275",
+          "travelledDistance": 2147647
+        },
+        "discount": 0.0
+      },
+      {
+        "id": 23,
+        "car": {
+          "id": 547,
+          "make": "Renault",
+          "model": "Alaskan",
+          "travelledDistance": 21447
+        },
+        "discount": 40.0
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Oren Perlman",
+    "birthDate": "1988-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 31,
+        "car": {
+          "id": 525,
+          "make": "Nissan",
+          "model": "Versa",
+          "travelledDistance": 2143647
+        },
+        "discount": 15.0
+      },
+      {
+        "id": 2,
+        "car": {
+          "id": 641,
+          "make": "Peugeot",
+          "model": "308",
+          "travelledDistance": 2147483647
+        },
+        "discount": 30.0
+      },
+      {
+        "id": 13,
+        "car": {
+          "id": 441,
+          "make": "Ford",
+          "model": "Pinto",
+          "travelledDistance": 9854775807
+        },
+        "discount": 5.0
+      },
+      {
+        "id": 35,
+        "car": {
+          "id": 179,
+          "make": "Renault",
+          "model": "Clio IV",
+          "travelledDistance": 2147483647
+        },
+        "discount": 30.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Natalie Poli",
+    "birthDate": "1990-10-04T12:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "id": 11,
+        "car": {
+          "id": 209,
+          "make": "Chevy",
+          "model": "Caprice",
+          "travelledDistance": 2147483647
+        },
+        "discount": 40.0
+      },
+      {
+        "id": 28,
+        "car": {
+          "id": 220,
+          "make": "Rolls-Royce",
+          "model": "Wraith",
+          "travelledDistance": 2147483647
+        },
+        "discount": 30.0
+      },
+      {
+        "id": 26,
+        "car": {
+          "id": 488,
+          "make": "Toyota",
+          "model": "Prius",
+          "travelledDistance": 9223354775807
+        },
+        "discount": 5.0
+      },
+      {
+        "id": 44,
+        "car": {
+          "id": 119,
+          "make": "Toyota",
+          "model": "Tacoma",
+          "travelledDistance": 922337807
+        },
+        "discount": 50.0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Marcelle Griego",
+    "birthDate": "1990-10-04T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 48,
+        "car": {
+          "id": 599,
+          "make": "Ferrari",
+          "model": "F40",
+          "travelledDistance": 214647
+        },
+        "discount": 50.0
+      },
+      {
+        "id": 32,
+        "car": {
+          "id": 592,
+          "make": "Ferrari",
+          "model": "275",
+          "travelledDistance": 92854775807
+        },
+        "discount": 40.0
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Yvonne Mccalla",
+    "birthDate": "1992-03-02T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 20,
+        "car": {
+          "id": 27,
+          "make": "BMW",
+          "model": "X6 M",
+          "travelledDistance": 922775807
+        },
+        "discount": 15.0
+      },
+      {
+        "id": 14,
+        "car": {
+          "id": 693,
+          "make": "Skoda",
+          "model": "Fabia",
+          "travelledDistance": 9223372036875807
+        },
+        "discount": 50.0
+      },
+      {
+        "id": 37,
+        "car": {
+          "id": 311,
+          "make": "Citroen",
+          "model": "C5",
+          "travelledDistance": 2183647
+        },
+        "discount": 0.0
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Ann Mcenaney",
+    "birthDate": "1992-03-02T12:00:00",
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 21,
+    "name": "Cinthia Lasala",
+    "birthDate": "1992-11-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 16,
+        "car": {
+          "id": 86,
+          "make": "Ford",
+          "model": "Pinto",
+          "travelledDistance": 922337807
+        },
+        "discount": 0.0
+      },
+      {
+        "id": 15,
+        "car": {
+          "id": 617,
+          "make": "Alfa Romeo",
+          "model": "75",
+          "travelledDistance": 72036854775807
+        },
+        "discount": 0.0
+      },
+      {
+        "id": 41,
+        "car": {
+          "id": 589,
+          "make": "Ferrari",
+          "model": "Daytona",
+          "travelledDistance": 92036854775807
+        },
+        "discount": 5.0
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Emmitt Benally",
+    "birthDate": "1993-11-20T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 40,
+        "car": {
+          "id": 108,
+          "make": "Toyota",
+          "model": "Prius",
+          "travelledDistance": 922337207
+        },
+        "discount": 5.0
+      },
+      {
+        "id": 8,
+        "car": {
+          "id": 347,
+          "make": "Dacia",
+          "model": "Dokker",
+          "travelledDistance": 213647
+        },
+        "discount": 20.0
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Nisha Markwell",
+    "birthDate": "1994-04-04T12:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "id": 50,
+        "car": {
+          "id": 130,
+          "make": "Toyota",
+          "model": "Prius",
+          "travelledDistance": 9223354775807
+        },
+        "discount": 30.0
+      },
+      {
+        "id": 24,
+        "car": {
+          "id": 408,
+          "make": "Fiat",
+          "model": "Panda 4x4",
+          "travelledDistance": 92233736854775807
+        },
+        "discount": 10.0
+      },
+      {
+        "id": 38,
+        "car": {
+          "id": 539,
+          "make": "Renault",
+          "model": "Alaskan",
+          "travelledDistance": 92807
+        },
+        "discount": 20.0
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Faustina Burgher",
+    "birthDate": "1994-06-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 18,
+    "name": "Taina Achenbach",
+    "birthDate": "1994-10-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 9,
+    "name": "Johnette Derryberry",
+    "birthDate": "1995-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "id": 5,
+        "car": {
+          "id": 50,
+          "make": "Fiat",
+          "model": "Panda 4x4",
+          "travelledDistance": 92233736854775807
+        },
+        "discount": 15.0
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Daniele Zarate",
+    "birthDate": "1995-10-05T12:00:00",
+    "isYoungDriver": false,
+    "sales": []
+  }
+]

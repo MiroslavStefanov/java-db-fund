@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BillsPaymentDatabase/BillsPaymentDatabase.iml" filepath="$PROJECT_DIR$/BillsPaymentDatabase/BillsPaymentDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FootballBetting/FootballBetting.iml" filepath="$PROJECT_DIR$/FootballBetting/FootballBetting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HibernateCodeFirst.iml" filepath="$PROJECT_DIR$/HibernateCodeFirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HospitalDatabase/HospitalDatabase.iml" filepath="$PROJECT_DIR$/HospitalDatabase/HospitalDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniversitySystem/UniversitySystem.iml" filepath="$PROJECT_DIR$/UniversitySystem/UniversitySystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sales/sales.iml" filepath="$PROJECT_DIR$/sales/sales.iml" />
+    </modules>
+  </component>
+</project>
